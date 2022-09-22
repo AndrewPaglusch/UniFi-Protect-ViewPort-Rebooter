@@ -6,7 +6,7 @@ A script to automatically reboot all discovered [UniFi Protect ViewPorts (UFP-VI
 I have a problem with my UniFi Protect ViewPorts where the framerate of all cameras feeds will drop to ~1FPS if the ViewPorts have been up and running for more than about 12 hours.
 This script was created as a bandage fix. I call it with cron every 8 hours so that my ViewPorts are always running nice and fast.
 
-Hopefully Ubiquiti will fix this bug so this script won't be needed anymore.
+Hopefully Ubiquiti will fix [this bug](https://community.ui.com/questions/Viewport-video-becomes-sluggish-after-a-few-days/42cdd58b-0b41-47a8-b385-e91dafd5f144) so this script won't be needed anymore.
 
 ## Configuration
 
